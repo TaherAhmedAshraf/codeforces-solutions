@@ -75,7 +75,7 @@ Will update this slowly.
 
 | Rating | Solved |
 | ------ | ------ |
-| 800    | 1      |
+| 800    | 2      |
 | 1000   | 0      |
 | 1200   | 0      |
 
