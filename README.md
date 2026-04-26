@@ -83,7 +83,7 @@ Will update this slowly.
 
 ## 🔗 Codeforces
 
-[https://codeforces.com/profile/YOUR_HANDLE](https://codeforces.com/profile/CoderTaher)
+[https://codeforces.com/profile/CoderTaher](https://codeforces.com/profile/CoderTaher)
 
 ---
 
